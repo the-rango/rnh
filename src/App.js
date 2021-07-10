@@ -103,12 +103,12 @@ function App() {
               <Typography variant="body2">
                 We owe all of our success to our wonderful people.
               </Typography>
-              <img alt="" width={200} src={"http://thehaloclub.org/images/boardMembers/l.jpeg"} />
+              <img alt="" width={200} src={"https://thehaloclub.org/images/boardMembers/l.jpeg"} />
               <Typography variant="body2">
                 David Song | El Presidente | Whitney High School 10th
               </Typography>
               <br />
-              <img alt="" width={200} src={"http://thehaloclub.org/images/boardMembers/m.jpeg"} />
+              <img alt="" width={200} src={"https://thehaloclub.org/images/boardMembers/m.jpeg"} />
               <Typography variant="body2">
                 Grace Jeong | Parkview School Teacher | Board Member | Founder 2016 | Advisor
               </Typography>
