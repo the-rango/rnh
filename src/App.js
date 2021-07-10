@@ -10,6 +10,10 @@ import {
   Paper,
   IconButton
 } from '@material-ui/core';
+
+import ds from './pics/ds.jpeg'
+import gj from './pics/gj.jpeg'
+
 import {Menu} from '@material-ui/icons'
 
 
